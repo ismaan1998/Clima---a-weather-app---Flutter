@@ -9,3 +9,4 @@ I made this application by learning from a Udemy Course taught by  <a href="http
 - lifecycle of states
 - NULL Handling in Dart
 - Working with get APIs 
+- Working with spin kit 
