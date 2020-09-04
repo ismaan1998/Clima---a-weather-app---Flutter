@@ -6,4 +6,6 @@ I made this application by learning from a Udemy Course taught by  <a href="http
 
 - Asynchronous programming (async, await)
 - Location services in flutter (Using GeoLocator package)
-- 
+- lifecycle of states
+- NULL Handling in Dart
+- Working with get APIs 
