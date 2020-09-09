@@ -11,4 +11,5 @@ I made this application by learning from a Udemy Course taught by  <a href="http
 - NULL Handling in Dart
 - Working with get APIs 
 - Working with spin kit 
-- passing data to states in stateful widgets
+- Passing data to states in stateful widgets
+- Working with textfields
