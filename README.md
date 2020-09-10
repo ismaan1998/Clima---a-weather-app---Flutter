@@ -2,12 +2,12 @@
 I made this application by learning from a Udemy Course taught by  <a href="https://github.com/angelabauer"> Angela Yu</a>. Thanks to her. 
 <br>
 
-<h2> Download Android App - <a href="">Click here</a>>
+<h2> Download Android App - <a href="https://github.com/ismaan1998/Clima---a-weather-app---Flutter/raw/master/app-release.apk">Click here</a>
 <h2> Screenshots -</h2><br>
 <div>
-<img src="Screenshots/shot1.PNG"  width=250, height=512, style="display:inline-block;">
-<img src="Screenshots/shot2.PNG"  width=250, height=512, style="display:inline-block;">
-<img src="Screenshots/shot3.PNG"  width=250, height=512, style="display:inline-block;">
+<img src="Screenshots/shot1.png"  width=250, height=512, style="display:inline-block;">
+<img src="Screenshots/shot2.png"  width=250, height=512, style="display:inline-block;">
+<img src="Screenshots/shot3.png"  width=250, height=512, style="display:inline-block;">
 </div>
 
 
